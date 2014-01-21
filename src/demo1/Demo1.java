@@ -18,7 +18,7 @@ public class Demo1 {
     Person p1 = new Person("Peter","Olsen");
     Person p2 = new Person("Jan","Olsen");
     Person p3 = new Person("Hanne","Jensen");
-
+    Person p4 = new Person("Søren","Hansen");
   }
   
 }
